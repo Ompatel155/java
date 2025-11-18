@@ -11,4 +11,3 @@ class AreaOfCircle{
         System.err.println("Area of circle : "+area);
     }
 }
-
