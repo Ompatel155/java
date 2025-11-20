@@ -1,6 +1,6 @@
 interface  A{
     void sleep();
-    default void data (){
+    default  void data (){
 
 System.out.println("hehe");
     }
