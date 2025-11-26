@@ -11,7 +11,7 @@ class NonReapiting{
         for(char ch :str.toCharArray())
         if(map.get(ch)==1){
             System.out.println(ch);
-            break;
+            break; 
         }
     }
 }
