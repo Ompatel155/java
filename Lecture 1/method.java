@@ -1,5 +1,5 @@
 
-// ------static function----
+// ------Non static function----
 // public class method{
 //     void print(){
 //         System.out.println("Raj badhwa");
@@ -10,7 +10,7 @@
 //     }
 // }
 
-// --------Non function----
+// --------Static function----
 public class method{
    static  void print(){
         System.out.println("Raj badhwa");
