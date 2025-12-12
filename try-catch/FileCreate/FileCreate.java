@@ -57,12 +57,8 @@ public class  FileCreate{
         }else if (a==3){
             
             filedelete();
-        
 
         }
-        
-       
-        
     }
     
 }
