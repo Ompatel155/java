@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 class PalindromeString {
@@ -22,4 +21,3 @@ class PalindromeString {
         }
     }
 }
-
