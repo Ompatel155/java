@@ -8,5 +8,12 @@ class comparetoFun{
         String A="OM ";
         String B="PRINCE";
         System.out.println(A.concat(B));
+
+        // String ko Array me convert karne ke liye
+        String str="omprakash";
+        char arr[]=str.toCharArray();
+        for(char ch:arr){
+            System.out.print(ch+" ");
+        }
     }
 }
