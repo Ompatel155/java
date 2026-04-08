@@ -1,4 +1,4 @@
-class main{
+class Reversstr{
     public static void main(String[] args) {
         String str1="hello";
         System.out.println(str1);
@@ -14,6 +14,11 @@ class main{
         System.out.println(str1.replace('l','z'));
         String str3= str1.concat("World");
         System.out.println(str3);
+        String rev ="";
+        for(int i=str1.length()-1;i>=0;i--){
+            rev = rev + str1.charAt(i);
+        }
+  System.out.println(rev);
         
     }
 }
